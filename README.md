@@ -1,4 +1,41 @@
-<h2 align="left">MERN Stack Developer with strong command over React, Node.js, MongoDB, and Express. Built scalable apps like a food delivery system and blog platform. Proficient in DSA, REST APIs, and computer science fundamentals. Actively looking for internship opportunities to contribute in a team. completed coursework while maintaining a GPA of 8.3 throughout the academic tenure, also Achieved finalist status in the Smart India Hackathon 2024 by developing a full-stack web application that improved user engagement, receiving constructive feedback from over 100 participants and mentors during presentations.</h2>
+# 👋 Hi there, I'm a MERN Stack Developer!
+
+🚀 Passionate full-stack developer skilled in the **MERN Stack**:  
+`MongoDB` | `Express.js` | `React.js` | `Node.js`
+
+---
+
+### 🛠️ What I Do
+- 🔧 Build scalable full-stack applications  
+- 🍴 Created a **Food Delivery System**  
+- ✍️ Developed a dynamic **Blog Platform**
+
+---
+
+### 💡 Skills & Expertise
+- 💻 Strong in **Data Structures & Algorithms (DSA)**
+- 🌐 Proficient in **REST APIs** and **CS Fundamentals**
+- 🧩 Experienced with **team-based development**
+
+---
+
+### 🏆 Achievements
+- 🎓 Maintained an **8.3 GPA** throughout academic tenure  
+- 🥇 Finalist in **Smart India Hackathon 2024**  
+   ➤ Built a full-stack web app that enhanced user engagement  
+   ➤ Got valuable feedback from **100+ mentors & participants**
+
+---
+
+### 🔍 Looking for Opportunities
+📬 Actively seeking **internship roles** where I can collaborate, learn, and contribute as a MERN developer!
+
+---
+
+### 📫 Let’s Connect!
+Feel free to explore my repositories or reach out.  
+Let’s build something impactful together! 💻✨
+
 <h1>Mail : </h1><h2>jeetmahapatrareal@gmail.com</h2>
 
 ###
