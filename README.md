@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm a MERN Stack Developer!
+# 👋 Hi there, I'm a FULL Stack Developer!
 
-🚀 Passionate full-stack developer skilled in the **MERN Stack**:  
-`MongoDB` | `Express.js` | `React.js` | `Node.js`
+🚀 Passionate full-stack developer skilled in:  
+`MongoDB` | `Express.js` | `React.js` | `Node.js` | `SQL` | `JS` | `CSS` | `Tailwind CSS` | `HTML`
 
 ---
 
 ### 🛠️ What I Do
 - 🔧 Build scalable full-stack applications  
 - 🍴 Created a **Food Delivery System**  
-- ✍️ Developed a dynamic **Blog Platform**
+- ✍️ Developed a dynamic **Mental Health Tracker**
 
 ---
 
