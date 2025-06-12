@@ -1,4 +1,5 @@
-<h2 align="left">MERN Stack Developer with strong command over React, Node.js, MongoDB, and Express. Built scalable apps like a food delivery system and blog platform. Proficient in DSA, REST APIs, and computer science fundamentals. Actively looking for internship opportunities to contribute in a team. completed coursework while maintaining a GPA of 8.3 throughout the academic tenure, also Achieved finalist status in the Smart India Hackathon 2024 by developing a full-stack web application that improved user engagement, receiving constructive feedback from over 100 participants and mentors during presentations.</h2>
+<h2 align="left">MERN Stack Developer with strong command over React, Node.js, MongoDB, and Express. Built scalable apps like a food delivery system and blog platform. Proficient in DSA, REST APIs, and computer science fundamentals. Actively looking for internship opportunities to contribute in a team. completed coursework while maintaining a GPA of 8.3 throughout the academic tenure, also Achieved finalist status in the Smart India Hackathon 2024 by developing a full-stack web application that improved user engagement, receiving constructive feedback from over 100 participants and mentors during presentations.</h2></br>
+<h1>Mail : </h1><h2>jeetmahapatrareal@gmail.com</h2>
 
 ###
 
@@ -76,9 +77,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/jeet-mahapatra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="jeetmahapatrareal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/@sahajparasona" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
